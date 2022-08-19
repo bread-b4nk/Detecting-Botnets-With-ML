@@ -1,7 +1,7 @@
 # Detecting-Botnets-With-ML
 This was a course project at Dartmouth College for COSC 74 (Machine Learning) and MATH 60 (Probability Honors Section). Data and data-loading code from https://github.com/harvardnlp/botnet-detection
 
-Please check the Jupyter notebook file to see the file processing done, machine learning algorithms used, and results. The paper sums it up in a formal academic way, but I bet most people would rather just see the code and comments :)
+**Please check the Jupyter notebook file** to see the file processing done, machine learning algorithms used, and results. The paper sums it up in a formal academic way, but I bet most people would rather just see the code and comments :)
 
 ## Background
 A botnet is a collection of compromised computers
